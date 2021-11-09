@@ -100706,3 +100706,5 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+
+0.0.0.0 graph.facebook.com
