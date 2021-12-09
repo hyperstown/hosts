@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 11 Nov 2021 10:00:20 GMT
-# entries:        3682
+# last updated:   Sat, 04 Dec 2021 23:49:23 GMT
+# entries:        3696
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,13 +11,14 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 17 Nov 2001 00:00:00
+# start date:    Tue, 11 Dec 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
+0.0.0.0 1link2020.com
 0.0.0.0 1rx.io
 0.0.0.0 207.net
 0.0.0.0 247media.com
@@ -87,7 +88,6 @@
 0.0.0.0 abtasty.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
-0.0.0.0 acbsearch.com
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 acid-adserver.click
 0.0.0.0 acridtwist.com
@@ -131,7 +131,6 @@
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
 0.0.0.0 ad.choiceradio.com
-0.0.0.0 ad.clix.pt
 0.0.0.0 ad.cooks.com
 0.0.0.0 ad.digitallook.com
 0.0.0.0 ad.domainfactory.de
@@ -194,7 +193,6 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
-0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
@@ -335,6 +333,7 @@
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admonitor.com
+0.0.0.0 admotion.com.ar
 0.0.0.0 adn.lrb.co.uk
 0.0.0.0 adnet.asahi.com
 0.0.0.0 adnet.biz
@@ -503,7 +502,6 @@
 0.0.0.0 ads.foxnetworks.com
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.gamecity.net
-0.0.0.0 ads.gamershell.com
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 ads.gamigo.de
 0.0.0.0 ads.gaming-universe.de
@@ -588,7 +586,6 @@
 0.0.0.0 ads.mvscoelho.com
 0.0.0.0 ads.myadv.org
 0.0.0.0 ads.nccwebs.com
-0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newgrounds.com
@@ -802,7 +799,6 @@
 0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
-0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
@@ -952,6 +948,7 @@
 0.0.0.0 advnt.com
 0.0.0.0 adwebone.com
 0.0.0.0 adwhirl.com
+0.0.0.0 adwords-track.com
 0.0.0.0 adwordsecommerce.com.br
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
@@ -1114,7 +1111,6 @@
 0.0.0.0 ato.mx
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attribution.report
-0.0.0.0 attributiontracker.com
 0.0.0.0 atwola.com
 0.0.0.0 auctionads.com
 0.0.0.0 auctionads.net
@@ -1339,6 +1335,7 @@
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
+0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1exchange.com
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatingtoothbrush.com
@@ -1534,6 +1531,7 @@
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
+0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
@@ -1717,6 +1715,8 @@
 0.0.0.0 elitetoplist.com
 0.0.0.0 elthamely.com
 0.0.0.0 em1.yoursantander.co.uk
+0.0.0.0 email-clk.adguard.com
+0.0.0.0 email-opn.adguard.com
 0.0.0.0 emanog.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
@@ -1841,11 +1841,13 @@
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flimsycircle.com
+0.0.0.0 flimsythought.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
 0.0.0.0 fly-analytics.com
 0.0.0.0 folawn.com
+0.0.0.0 fontsctaticx.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -1873,6 +1875,7 @@
 0.0.0.0 freewheel.tv
 0.0.0.0 friendwool.com
 0.0.0.0 frightenedpotato.com
+0.0.0.0 frontstatics.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
 0.0.0.0 fullstory.com
@@ -1898,6 +1901,9 @@
 0.0.0.0 gamesites200.com
 0.0.0.0 gammamaximum.com
 0.0.0.0 gaug.es
+0.0.0.0 gavvia.com
+0.0.0.0 gctatic.com
+0.0.0.0 gctatics.com
 0.0.0.0 gearwom.de
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.digitalpoint.com
@@ -1907,6 +1913,7 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
 0.0.0.0 getmyads.com
+0.0.0.0 gfcim5.gq
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -1943,8 +1950,11 @@
 0.0.0.0 greystripe.com
 0.0.0.0 groundtruth.com
 0.0.0.0 gscontxt.net
+0.0.0.0 gstaticx.com
+0.0.0.0 gstaticxs.com
 0.0.0.0 gtop100.com
 0.0.0.0 guardedschool.com
+0.0.0.0 guffawdecipher.com
 0.0.0.0 gunggo.com
 0.0.0.0 h-bid.com
 0.0.0.0 h0.t.hubspotemail.net
@@ -2000,6 +2010,7 @@
 0.0.0.0 hittail.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
+0.0.0.0 hollowafterthought.com
 0.0.0.0 homelycrown.com
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
@@ -2094,6 +2105,7 @@
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 inskinad.com
+0.0.0.0 inslco.bar
 0.0.0.0 inspectlet.com
 0.0.0.0 install.365-stream.com
 0.0.0.0 instantmadness.com
@@ -2124,6 +2136,7 @@
 0.0.0.0 itop.cz
 0.0.0.0 its-that-easy.com
 0.0.0.0 itsptp.com
+0.0.0.0 iubzka.online
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfnzgb.com
@@ -2271,6 +2284,7 @@
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
+0.0.0.0 lucklayed.info
 0.0.0.0 luckyorange.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
@@ -2294,7 +2308,6 @@
 0.0.0.0 marinsm.com
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
-0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.net.brillen.de
@@ -2312,6 +2325,7 @@
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
+0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
@@ -2583,6 +2597,7 @@
 0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
+0.0.0.0 optnx.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 outbrain.com
@@ -2672,6 +2687,7 @@
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 placed.com
 0.0.0.0 plardi.com
+0.0.0.0 plausible.mangadex.org
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
@@ -2679,6 +2695,8 @@
 0.0.0.0 plista.com
 0.0.0.0 plotrabbit.com
 0.0.0.0 ployea.com
+0.0.0.0 ploz.mangadex.org
+0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 plugrush.com
 0.0.0.0 pocketmath.com
@@ -2714,10 +2732,8 @@
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
-0.0.0.0 pro-advertising.com
 0.0.0.0 pro-market.net
 0.0.0.0 producecopy.com
-0.0.0.0 producer.getwisdom.io
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
@@ -2897,7 +2913,6 @@
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
 0.0.0.0 rightstats.com
-0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzykey.com
 0.0.0.0 rlcdn.com
@@ -2952,6 +2967,7 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scambiobanner.aruba.it
 0.0.0.0 scanscout.com
+0.0.0.0 scaraabresearch.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarfsmash.com
 0.0.0.0 scatteredheat.com
@@ -3018,7 +3034,6 @@
 0.0.0.0 signalayer.com
 0.0.0.0 silkysquirrel.com
 0.0.0.0 sillyscrew.com
-0.0.0.0 silvalliant.info
 0.0.0.0 silvermob.com
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simplehitcounter.com
@@ -3254,7 +3269,6 @@
 0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
-0.0.0.0 techclicks.net
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenrevenue.com
 0.0.0.0 teenyvolcano.com
@@ -3451,7 +3465,6 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
-0.0.0.0 tvmtracker.com
 0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com
@@ -3462,7 +3475,6 @@
 0.0.0.0 udkcrj.com
 0.0.0.0 udncoeln.com
 0.0.0.0 uib.ff.avast.com
-0.0.0.0 ukbanners.com
 0.0.0.0 ukoffzeh.com
 0.0.0.0 ultimateclixx.com
 0.0.0.0 ultramercial.com
@@ -3477,6 +3489,7 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 unwrittenspot.com
+0.0.0.0 uowbqce.surf
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 uramog.com
 0.0.0.0 urlcash.net
@@ -3677,6 +3690,7 @@
 0.0.0.0 zantracker.com
 0.0.0.0 zarget.com
 0.0.0.0 zbwp6ghm.com
+0.0.0.0 zdbb.net
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com
 0.0.0.0 zemanta.com
